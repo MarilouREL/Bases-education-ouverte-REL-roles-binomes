@@ -1,6 +1,7 @@
-# REL-ULaval
-Les bases de l’éducation ouverte et des REL, rôles des binômes!
+# Les base de l'éducation ouverte et des REL, rôles des binômes!
+
 Par Marilou Bourque et Claude Potvin
+
 Fichier : [mettre le lien ici]
 Principes :
 Utilisations :
